@@ -24,9 +24,9 @@
 
 
 body { background: url(http://roimg.ro/images/2015/03/15/bg.jpg); overflow-x: hidden; overflow-y: hidden; color: #fff; font-family: 'GillSansLight', HeveticaNeue-Light, sans-serif; }
-.scrollv { overflow-y: auto !important; background-size : 100% 100%; min-height: 100%;}
+.scrollv { overflow-y: auto !important;  }
 
-.wrap { width: 80%; margin: 0 auto; }
+.wrap { width: 100%; margin: 0 auto; }
 
 h1, h2 { font-weight: normal; text-transform: uppercase; text-align: center; }
 
